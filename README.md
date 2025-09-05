@@ -1,12 +1,12 @@
 #Clon de google
-Proyecto creado en **TECNOLOCHICAS PRO** simulando a la págiina de google
+Proyecto creado en **TECNOLOCHICAS PRO** simulando a la página de google
 **************************************************************************
 #1. Intro
 ESte proyecto fue creado con¨**HTML y CSS**
 Puedes verlo en este enlance
 ![Clon de google](https://www.linuxadictos.com/wp-content/uploads/Google-en-Firefox.png)
 
-**Inspirate de la realización de este proyecto, utiliza tu destreza para demostrar que tu futuro es ser desarrolladora frontend 💪**
+**Inspírate de la realización de este proyecto, utiliza tu destreza para demostrar que tu futuro es ser desarrolladora frontend 💪**
 
 ## Contenido del proyecto 
 1. Header
